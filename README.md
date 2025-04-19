@@ -7,4 +7,4 @@ https://pan.baidu.com/s/1kelxctL6A_wlC9Y92cIgiQ </br>
 For password, please contact: yejiayu97@outlook.com. </br>
 
 # Model
-![Example Image]([https://github.com/yjy-97/DMT/1.1_00.png](https://github.com/yjy-97/DMT/blob/main/1.1_00.png))
+![Example Image](https://github.com/yjy-97/DMT/blob/main/1.1_00.png)
