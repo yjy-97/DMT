@@ -1,5 +1,5 @@
 # DMT
-MidNet: A Multi-level Interaction Model for Type 2 Diabetes Recognition and Confidence Estimation Based on Tongue Image
+T2Net: Tongue Image-Based T2DM Detection via Simulated Clinical Diagnostic Reasoning
 
 # Data
 This is the official data link of DMT. </br>
